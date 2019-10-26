@@ -12,7 +12,7 @@ In this competition, Kagglers will develop models that identify and flag insince
 
 
 <p align="center">
-<b align="center>Model Proposed</b><br><br>
+<b>Model Proposed</b><br><br>
 <img width="299" height="451" src="https://github.com/Sreyan88/Quora-Insincere-Classification-Bronze-Medal-Approach/blob/master/Extra/Quora Model.png">
 </p></br>
 
