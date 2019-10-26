@@ -19,6 +19,15 @@ In this competition, Kagglers will develop models that identify and flag insince
 </p></br>
 
 <p align="center">
+  <b> Steps to final prediction </b><br>
+  </p></br>
+ 
+ 1. Cleaning the data of all possible errors. Cleaning included correcting spelling mistakes, expanding contractions, removing numbers and punctuations, etc.
+ 2. Defining the extra features for auxiliary input.
+ 2. Defining the perfect model.
+ 3. Training on Stratified 5-Fold K-Folds and ensembling the results for final predictions.
+ 
+<p align="center">
   <b> Things which helped in the Bronze Medal </b><br>
   </p></br>
   
