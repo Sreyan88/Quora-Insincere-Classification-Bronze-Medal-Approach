@@ -10,9 +10,11 @@ Quora is a platform that empowers people to learn from each other. On Quora, peo
 
 In this competition, Kagglers will develop models that identify and flag insincere questions.
 
-
 <p align="center">
-<b>Model Proposed</b><br><br>
+  <b> Architecture of the model used </b><br>
+  </p></br>
+ 
+<p align="center">
 <img width="299" height="451" src="https://github.com/Sreyan88/Quora-Insincere-Classification-Bronze-Medal-Approach/blob/master/Extra/Quora Model.png">
 </p></br>
 
