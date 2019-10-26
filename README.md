@@ -1,6 +1,6 @@
 # Quora-Insincere-Classification-Bronze-Medal-Approach
 
-### This Repository contains the code for Quora Insincere Questions Classification Competiotion hosted on Kaggle
+### This Repository contains the code for Quora Insincere Questions Classification Competition hosted on Kaggle
 
 ### Problem Statement:
 
