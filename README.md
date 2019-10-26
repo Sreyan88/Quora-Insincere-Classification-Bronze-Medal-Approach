@@ -17,5 +17,12 @@ In this competition, Kagglers will develop models that identify and flag insince
 </p></br>
 
 <p align="center">
-  <b> Model Description </b><br>
+  <b> Things which helped in the Bronze Medal </b><br>
   </p></br>
+  
+  1. Cyclic Learning Rate
+  2. Using an ensmeble of pre-trained Glove and Paragram word embeddings
+  3. Gradient Clipping of 1.0
+  4. Auxiliary Input of statistical features related to the sentences
+  
+  
