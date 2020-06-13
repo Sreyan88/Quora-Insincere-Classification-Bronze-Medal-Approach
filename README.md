@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3892920.svg)](https://doi.org/10.5281/zenodo.3892920)
 # Quora-Insincere-Classification-Bronze-Medal-Approach
 
 ### This Repository contains the code for Quora Insincere Questions Classification Competition hosted on Kaggle
